@@ -39,8 +39,11 @@ MainMenu.xib
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS:
 
+Version 1.1
+- Update for Xcode 4
+
 Version 1.0
 - First version.
 
 ===========================================================================
-Copyright (C) 2010 Apple Inc. All rights reserved.
+Copyright (C) 2010 - 2011 Apple Inc. All rights reserved.
